@@ -6,8 +6,8 @@
 });*/
 
 $(document).ready(function() {
-  $("p").click(function() {
-    $(".walrus-showing").toggle();
-    $(".walrus-hidden").toggle();
+  $(".clickable").click(function() {
+    $("#initially-showing").toggle();
+    $("#initially-hidden").toggle();
   });
 });
