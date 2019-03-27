@@ -1,3 +1,5 @@
-$(document).ready() {
-
-};
+$(document).ready(function() {
+  $("p").click(function() {
+    $("img").show();
+  });
+});
