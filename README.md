@@ -12,7 +12,7 @@ _User is prompted to click on a piece of text which displays an image. User can 
 
 * _Clone from GitHub_
 * _Open index.html_
-* _Alternatively launch marclignarius.github.io/..._
+* _Alternatively launch marclignarius.github.io/jspeekaboo_
 
 ## Known Bugs
 
